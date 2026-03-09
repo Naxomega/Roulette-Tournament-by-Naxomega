@@ -102,4 +102,4 @@ Ces points sont définis par leur classement dans ce round (et de ces régles).
 Pour ce qui concerne le mode en equipe :
 
 - Membres de l'equipe gagnante : **10pts**
-- Membres de l'equipe perdante : **0pts**
+- Membres de l'equipe perdante : **5pts**
