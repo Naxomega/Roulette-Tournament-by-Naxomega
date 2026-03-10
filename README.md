@@ -2,11 +2,17 @@
 
 Tournoi dans lequel chaque round a des conditions de victoire aleatoirement définies.
 
-Le programme permet de randomiser les règles afin d'éviter de les choisir au plouf-plouf\
+Le programme permet de randomiser les règles afin d'éviter de les choisir au plouf-plouf
 
 Vous avez simplement à ouvrir le programme, donner le nombre de participants, choisir le mode et c'est bon !
 
 Plusieurs améliorations seront suseptibles d'apparaître au fur et à mesure, et je suis ouvert aux proposition (voir [ici](https://github.com/Naxomega/Roulette-Tournament/edit/main/README.md#d%C3%A9tails-suppl%C3%A9mentaires))
+
+Le programme fonctionne actuellement sur Mario Kart 8 (Deluxe) (Le programme ignore les DLC de MK8DX, si vous ne les avez pas ce n'est pas un problème)
+
+J'ajouterai, à l'avenir, un support pour Mario Kart World (Moins complet que MK8DX, dù à l'absence de nombreux modes bataille, ainsi que du 200cc)
+
+Nous en sommes à la version 1.0, voici le changelog : Sortie Initiale
 
 ---
 
