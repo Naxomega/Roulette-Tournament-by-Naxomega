@@ -12,7 +12,7 @@ Le programme fonctionne actuellement sur Mario Kart 8 (Deluxe) (Le programme ign
 
 J'ajouterai, à l'avenir, un support pour Mario Kart World (Moins complet que MK8DX, dù à l'absence de nombreux modes bataille, ainsi que du 200cc)
 
-Nous en sommes à la version 1.0, voici le changelog : Sortie Initiale
+Nous en sommes à la version 1.0.1, voici le changelog : Légers changements liés a un bug empêchant la "position précese" d'être choisie si un modificateur en 2 étapes (composition, type...) était actif, retrait de "position précise" en mode bataille, il sera réajouté dans le futur, pas d'inquiétude !
 
 ---
 
@@ -55,7 +55,6 @@ Nous en sommes à la version 1.0, voici le changelog : Sortie Initiale
 
 - Standard (Points)
 - Score (Equipe uniquement)
-- Position précise (1-12e)
 - Position moyenne (1-12e en moyenne sur toutes les batailles)
 - Battle Royale (Solo uniquement)
 
